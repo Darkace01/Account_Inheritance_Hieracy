@@ -30,12 +30,14 @@ namespace AccountInheritanceHieracy
             }
         }
 
+        //remove fee from account
         public override void Credit (decimal amount)
         {
             base.Credit(amount);
             Balance = Balance - Fee;
         }
 
+        // removes fee from the balance
         public override bool Debit(decimal amount)
         {
             if (base.Debit(amount))

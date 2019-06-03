@@ -1,0 +1,7 @@
+C:\Users\Kazeem Quadri\source\repos\AccountInheritanceHieracy\AccountInheritanceHieracy\bin\Debug\AccountInheritanceHieracy.exe.config
+C:\Users\Kazeem Quadri\source\repos\AccountInheritanceHieracy\AccountInheritanceHieracy\bin\Debug\AccountInheritanceHieracy.exe
+C:\Users\Kazeem Quadri\source\repos\AccountInheritanceHieracy\AccountInheritanceHieracy\bin\Debug\AccountInheritanceHieracy.pdb
+C:\Users\Kazeem Quadri\source\repos\AccountInheritanceHieracy\AccountInheritanceHieracy\obj\Debug\AccountInheritanceHieracy.csprojAssemblyReference.cache
+C:\Users\Kazeem Quadri\source\repos\AccountInheritanceHieracy\AccountInheritanceHieracy\obj\Debug\AccountInheritanceHieracy.csproj.CoreCompileInputs.cache
+C:\Users\Kazeem Quadri\source\repos\AccountInheritanceHieracy\AccountInheritanceHieracy\obj\Debug\AccountInheritanceHieracy.exe
+C:\Users\Kazeem Quadri\source\repos\AccountInheritanceHieracy\AccountInheritanceHieracy\obj\Debug\AccountInheritanceHieracy.pdb
